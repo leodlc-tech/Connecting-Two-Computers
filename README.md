@@ -9,7 +9,8 @@ Both devices are configured with static IP addresses in the **same subnet**, all
 ---
 
 ## 🏗️ Topology
-![Topology Diagram](Bus Topology.png)
+![Topology Diagram]<img width="2560" height="1392" alt="Bus Topology" src="https://github.com/user-attachments/assets/d64a417b-af13-4980-901b-3bce30c69e2b" />
+
 
 - **PC-1**: 192.168.10.10 / 255.255.255.0  
 - **PC-2**: 192.168.10.15 / 255.255.255.0  
@@ -19,17 +20,20 @@ Both devices are configured with static IP addresses in the **same subnet**, all
 
 ## ⚙️ Device Configuration
 ### PC-1
-![PC-1 IP Configuration](images/PC-1 IP config.png)
+![PC-1 IP Configuration]<img width="2560" height="1392" alt="PC-1 IP config" src="https://github.com/user-attachments/assets/68e85d7c-20bd-4e06-9ccc-975340db94f2" />
+
 
 ### PC-2
-![PC-2 IP Configuration](images/PC-2 IP Config.png)
+![PC-2 IP Configuration]<img width="2560" height="1392" alt="PC-2 IP Config" src="https://github.com/user-attachments/assets/52079160-d905-49fc-9911-4f0aa955eaa4" />
+
 
 ---
 
 ## 🧪 Testing
 Communication verified using **ping** from PC-2 to PC-1:
 
-![Successful Ping](images/Succesful Ping from PC-2 to PC-1.png)
+![Successful Ping]<img width="2560" height="1392" alt="Succesful Ping from PC-2 to PC-1" src="https://github.com/user-attachments/assets/316cc68d-31e3-4972-bbb2-19b8084b9ff2" />
+
 
 **Result:** Replies received, proving that devices in the same subnet can exchange data when connected properly.
 
