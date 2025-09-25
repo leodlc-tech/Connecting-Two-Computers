@@ -9,7 +9,7 @@ Both devices are configured with static IP addresses in the **same subnet**, all
 ---
 
 ## 🏗️ Topology
-![Topology Diagram](images/topology.png)
+![Topology Diagram](images/Bus Topology.png)
 
 - **PC-1**: 192.168.10.10 / 255.255.255.0  
 - **PC-2**: 192.168.10.15 / 255.255.255.0  
