@@ -9,7 +9,7 @@ Both devices are configured with static IP addresses in the **same subnet**, all
 ---
 
 ## 🏗️ Topology
-![Topology Diagram](images/Bus Topology.png)
+![Topology Diagram](Bus Topology.png)
 
 - **PC-1**: 192.168.10.10 / 255.255.255.0  
 - **PC-2**: 192.168.10.15 / 255.255.255.0  
@@ -29,7 +29,7 @@ Both devices are configured with static IP addresses in the **same subnet**, all
 ## 🧪 Testing
 Communication verified using **ping** from PC-2 to PC-1:
 
-![Successful Ping](images/Succesful Ping from PC-1 to PC-2.png)
+![Successful Ping](images/Succesful Ping from PC-2 to PC-1.png)
 
 **Result:** Replies received, proving that devices in the same subnet can exchange data when connected properly.
 
